@@ -1,10 +1,33 @@
-- 👋 Hi, I’m @ViniciusCesarAlves
-- 👀 I’m interested in help people by codes
-- 🌱 I’m currently learning front-end == JS, HTML and CSS and back-end == Python
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: I'm a sports lover
+# 👋 Hi, I'm Vinícius  
 
-<!---
-ViniciusCesarAlves/ViniciusCesarAlves is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+💻 **Web Developer** passionate about creating responsive, accessible, and user-friendly web experiences.  
+🌐 Skilled in **HTML, CSS, and JavaScript**, with a growing interest in modern frameworks and clean, maintainable code.  
+🎯 Goal-oriented, adaptable, and always eager to learn and improve.  
+
+---
+
+## 🛠️ Tech Stack  
+- **Frontend:** HTML5 | CSS3 | JavaScript (ES6+)  
+- **Tools & Workflow:** Git | GitHub | Responsive Design | Agile mindset  
+- **Currently Learning:** React.js & Node.js  
+
+---
+
+## 🌍 About Me  
+- 📍 Interested in opportunities abroad
+- 🤝 Open to collaborations on open-source and web development projects  
+- 📚 Continuous learner with a passion for problem-solving  
+
+---
+
+## 📈 GitHub Stats  
+![Vinícius's GitHub stats](https://github-readme-stats.vercel.app/api?username=SeuUsuarioAqui&show_icons=true&theme=tokyonight)  
+
+---
+
+## 📫 Let's Connect  
+- 💼 [LinkedIn](https://www.linkedin.com/in/vinicius-cesar-alves/)
+- ✉️ Email: viniciuscesar.3003@gmail.com    
+
+---
+✨ *"Much more than code, i deliver solutions"*  
