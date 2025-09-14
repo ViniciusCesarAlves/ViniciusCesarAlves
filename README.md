@@ -26,7 +26,7 @@
 ---
 
 ## 📫 Let's Connect  
-- 💼 [LinkedIn](https://www.linkedin.com/in/vinicius-cesar-alves/)
+- 💼 <a href="https://www.linkedin.com/in/vinicius-cesar-alves/" target="_blank">LinkedIn</a>
 - ✉️ Email: viniciuscesar.3003@gmail.com    
 
 ---
