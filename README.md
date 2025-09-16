@@ -20,11 +20,6 @@
 
 ---
 
-## 📈 GitHub Stats  
-![Vinícius's GitHub stats](https://github-readme-stats.vercel.app/api?username=SeuUsuarioAqui&show_icons=true&theme=tokyonight)  
-
----
-
 ## 📫 Let's Connect  
 - 💼 <a href="https://www.linkedin.com/in/vinicius-cesar-alves/" target="_blank">LinkedIn</a>
 - ✉️ Email: viniciuscesar.3003@gmail.com    
