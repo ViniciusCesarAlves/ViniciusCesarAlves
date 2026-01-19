@@ -1,44 +1,64 @@
-# Hi there, I'm Vinícius Alves! 👋
+📊 Vinícius César Alves — Data Analytics & BI
 
-### 🚀 Data Analyst in Training | Web Developer
+Olá! Sou um profissional em transição estratégica para a área de Dados, com foco em análise, manipulação e visualização de dados para apoio à tomada de decisão.
 
-[cite_start]I am a professional transitioning into the **Data Science & Analytics** field, currently studying **Analysis and Systems Development**[cite: 4, 17]. 
+Minha base técnica vem da formação em Análise e Desenvolvimento de Sistemas aliada a uma forte disciplina analítica construída na formação militar, onde lógica, organização e responsabilidade por resultados não eram opcionais.
 
-[cite_start]I combine a solid technical background in **Web Development** with a disciplined, analytical mindset developed during my time in the **military** (Sergeant Training)[cite: 5, 18]. [cite_start]My goal is to leverage data extraction, manipulation, and visualization to support strategic decision-making[cite: 6].
+Este repositório reúne projetos, estudos e práticas em Dados e BI, refletindo minha evolução técnica e capacidade de transformar dados brutos em insights acionáveis.
 
-I am currently preparing for an international career move to Canada within the next few years. 🇨🇦
+🎯 Objetivo Profissional
 
----
+Atuar como Analista de Dados / BI, contribuindo com análises claras, dashboards objetivos e suporte analítico para decisões estratégicas de negócio.
 
-### 🛠️ Tech Stack & Tools
+🧠 Competências em Dados
+📌 Manipulação e Análise de Dados
 
-**Data Analysis & Engineering**
-* [cite_start]**Languages:** Python (Pandas, NumPy) [cite: 8][cite_start], SQL (MySQL) 
-* [cite_start]**Visualization:** Power BI (DAX, Power Query) [cite: 8][cite_start], Excel (Pivot Tables, Power Pivot) [cite: 9]
+SQL (MySQL)
 
-**Web Development**
-* [cite_start]**Core:** HTML5, CSS3, PHP [cite: 13]
-* [cite_start]**CMS & Design:** WordPress, Elementor, UI/UX Principles [cite: 13, 14]
+Python (análise e tratamento de dados)
 
----
+Estruturação e limpeza de datasets
 
-### 💼 Experience
+📊 Visualização e BI
 
-**Web Developer | UpPages** *(May 2024 - Present)*
-* [cite_start]Developing and maintaining landing pages, e-commerce sites, and institutional websites using HTML, CSS, PHP, and WordPress[cite: 12, 13].
-* [cite_start]Applying UI/UX and data analysis principles to improve user retention and conversion rates[cite: 14].
+Power BI
 
----
+Criação de dashboards interativos
 
-### 📚 Education & Certifications
+Análise exploratória e apresentação de insights
 
-* [cite_start]**Degree:** Analysis and Systems Development - Anhanguera (In Progress) [cite: 17]
-* [cite_start]**Certifications:** Python 3 (World 1), Algorithms, English (Level 1) [cite: 21, 22, 23]
-* [cite_start]**Languages:** Portuguese (Native), English (Intermediate) [cite: 3]
+📈 Planilhas e Apoio Analítico
 
----
+Excel (organização, análise e apoio à visualização)
 
-### 📫 Connect with me
+🧩 Habilidades Analíticas
 
-* [LinkedIn](https://www.linkedin.com/in/vinicius-cesar-alves/)
-* [cite_start]**Email:** ctt.alvesvinicius@gmail.com [cite: 2]
+Pensamento analítico e raciocínio lógico
+
+Resolução estruturada de problemas
+
+Comunicação clara de insights para públicos técnicos e não técnicos
+
+📚 Formação Acadêmica
+
+Análise e Desenvolvimento de Sistemas — Anhanguera (Cursando)
+
+Curso de Formação de Sargentos — Escola de Sargentos das Armas (ESA)
+
+📖 Estudos e Certificações
+
+Python 3 – Mundo 1 (Curso em Vídeo)
+
+Algoritmos (Curso em Vídeo)
+
+Inglês – Nível Intermediário (CIDEx / Londres Brasil)
+
+🌍 Idiomas
+
+Inglês: Intermediário
+
+🔗 Contato
+
+LinkedIn: vinicius-cesar-alves
+
+E-mail: viniciuscesar.3003@gmail.com
