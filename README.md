@@ -35,25 +35,24 @@ Atuar como **Analista de Dados / BI**, aplicando análise estruturada, dashboard
 ---
 
 ## 📚 Formação
-- **Análise e Desenvolvimento de Sistemas** — Anhanguera *(Cursando)*
+- **MBA Business Intellicence and Analytics** — Uniube *(Cursando)*
+- **Análise e Desenvolvimento de Sistemas** — Anhanguera
 - **Curso de Formação de Sargentos** — Escola de Sargentos das Armas (ESA)
 
 ---
 
 ## 📖 Estudos e Certificações
-- Python 3 – Mundo 1 | Curso em Vídeo  
-- Algoritmos | Curso em Vídeo  
+- Google Data Analytics Professional | Google 
+- Yellow Belt | Lean Six Sigma  
 - Inglês – Nível Intermediário | CIDEx / Londres Brasil  
 
 ---
 
 ## 🌍 Idiomas
-- Inglês: Intermediário
+- Inglês: B2 (Upper Intermediate)
 
 ---
 
 ## 🔗 Contato
-- **LinkedIn:** [vinicius-cesar-alves](http://www.linkedin.com/in/vinicius-cesar-alves)
-- **E-mail:** viniciuscesar.3003@gmail.com
 - **LinkedIn:** [vinicius-cesar-alves](http://www.linkedin.com/in/vinicius-cesar-alves)
 - **E-mail:** viniciuscesar.3003@gmail.com
